@@ -1,0 +1,2 @@
+webpackJsonp([72535408073075],{236:function(e,t,l){"use strict";function u(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var n=l(2),a=u(n),c=function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"Teaching"),a.default.createElement("p",null,"Math classes"))};t.default=c,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-teaching-js-594bd30c42fbc2f7fac1.js.map

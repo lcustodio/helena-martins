@@ -1,0 +1,2 @@
+webpackJsonp([0x7ad05f2cc7b7],{233:function(e,t,u){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var n=u(2),a=l(n),c=function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"Education"),a.default.createElement("p",null,"Math education"))};t.default=c,e.exports=t.default}});
+//# sourceMappingURL=component---src-pages-education-js-5281b2ce705df4e87aff.js.map

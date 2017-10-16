@@ -1,0 +1,76 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-afc206f5185ba72d4ab4.js",
+      "component---src-pages-index-js-afc206f5185ba72d4ab4.js.map"
+    ],
+    "path---cv": [
+      "path---cv-a0e39f21c11f6a62c5ab.js",
+      "path---cv-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---src-pages-teaching-js": [
+      "component---src-pages-teaching-js-594bd30c42fbc2f7fac1.js",
+      "component---src-pages-teaching-js-594bd30c42fbc2f7fac1.js.map"
+    ],
+    "path---education": [
+      "path---education-a0e39f21c11f6a62c5ab.js",
+      "path---education-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-234a4e90cce03b536043.js",
+      "component---src-layouts-index-js-234a4e90cce03b536043.js.map"
+    ],
+    "component---src-pages-education-js": [
+      "component---src-pages-education-js-5281b2ce705df4e87aff.js",
+      "component---src-pages-education-js-5281b2ce705df4e87aff.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-6a499c3f3020caef31e6.js",
+      "component---src-pages-404-js-6a499c3f3020caef31e6.js.map"
+    ],
+    "commons": [
+      "commons-11eb3c6b05305d1782fb.js",
+      "build-js-styles.css",
+      "commons-11eb3c6b05305d1782fb.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-pages-cv-js": [
+      "component---src-pages-cv-js-9bcfeb20ab487ed7f3d0.js",
+      "component---src-pages-cv-js-9bcfeb20ab487ed7f3d0.js.map"
+    ],
+    "path---teaching": [
+      "path---teaching-a0e39f21c11f6a62c5ab.js",
+      "path---teaching-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---presentations": [
+      "path---presentations-a0e39f21c11f6a62c5ab.js",
+      "path---presentations-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-d9066008482209b4b2b5.js",
+      "build-js-styles.css",
+      "app-d9066008482209b4b2b5.js.map",
+      "build-js-styles.css.map"
+    ],
+    "component---src-pages-presentations-js": [
+      "component---src-pages-presentations-js-9cc47ba89dbbab62fd1a.js",
+      "component---src-pages-presentations-js-9cc47ba89dbbab62fd1a.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ]
+  }
+}
