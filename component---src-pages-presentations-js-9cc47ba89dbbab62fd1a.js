@@ -1,2 +1,0 @@
-webpackJsonp([0xe5169e907445],{235:function(e,t,n){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var u=n(2),a=l(u),r=function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"Presentations"),a.default.createElement("p",null,"Math presentations"))};t.default=r,e.exports=t.default}});
-//# sourceMappingURL=component---src-pages-presentations-js-9cc47ba89dbbab62fd1a.js.map

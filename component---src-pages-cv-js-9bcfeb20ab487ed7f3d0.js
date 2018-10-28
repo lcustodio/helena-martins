@@ -1,2 +1,0 @@
-webpackJsonp([0x9af6c131b579],{232:function(e,t,u){"use strict";function l(e){return e&&e.__esModule?e:{default:e}}t.__esModule=!0;var n=u(2),a=l(n),r=function(){return a.default.createElement("div",null,a.default.createElement("h1",null,"Curriculum Vitae"),a.default.createElement("p",null,"Math!"))};t.default=r,e.exports=t.default}});
-//# sourceMappingURL=component---src-pages-cv-js-9bcfeb20ab487ed7f3d0.js.map
